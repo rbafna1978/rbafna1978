@@ -67,7 +67,7 @@ Built and shipped full-stack configurator **currently live** on company website 
 - Reduced customer design revisions by 35%
 - Sub-200ms API response times in production
 
-[See it live →](https://jmillercustomcues.com)
+**[See it live →](https://jmillercustomcues.com)**
 
 ---
 
@@ -84,7 +84,7 @@ Built and shipped full-stack configurator **currently live** on company website 
 
 - **Email:** bafnarishit@gmail.com
 - **LinkedIn:** [linkedin.com/in/rishit-bafna](https://linkedin.com/in/rishit-bafna)
-- **Resume:** [View PDF](https://drive.google.com/file/d/1CGEiqjPd6OnAdfhIHydKLFlb8wsbA0Z8/view?usp=sharing)
+- **Resume:** [View PDF](https://drive.google.com/file/d/1cGEigj0d6OnAdfhIHydKLFlbBw8bA878/view?usp=sharing)
 
 ---
 
