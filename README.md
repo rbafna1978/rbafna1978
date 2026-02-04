@@ -1,101 +1,99 @@
 # Rishit Bafna
 
-MS Computer Science @ Arizona State University  
-Software Engineer focused on backend systems, distributed systems, and real-world product development.
+**MS Computer Science @ Arizona State University**  
+**Building distributed systems and shipping production software**
+
+I build systems that handle real scale. Recently shipped a [production 3D configurator](https://jmillercustomcues.com) serving live customers with Stripe payments. Currently implementing Raft consensus and CRDT-based collaborative editing from scratch.
 
 ---
 
-## About Me
+## 🚀 What I'm Building
 
-I enjoy building systems that are reliable, scalable, and actually used by people.  
-My interests include backend engineering, distributed systems, and performance-focused development.
+### [Distributed Key-Value Store](https://github.com/rbafna1978/distributed-kv-store) ⭐
+Fault-tolerant database implementing **Raft consensus algorithm** in Java with gRPC.
 
-Currently:
-- Pursuing MS in Computer Science at ASU
-- Preparing for SWE internships (Summer 2026)
-- Building and polishing production-quality projects
+**Key features:**
+- Leader election & log replication across 5-node cluster
+- Automatic failover during network partitions
+- 45K writes/sec, sub-5ms P99 latency (JMeter tested with 10K concurrent clients)
 
----
-
-## Tech Stack
-
-### Languages
-Java • C++ • Python • TypeScript • C • SQL
-
-### Backend & Systems
-Node.js • FastAPI • gRPC • WebSockets • REST APIs
-
-### Databases
-PostgreSQL • Redis • MongoDB • MySQL
-
-### Tools & Platforms
-Docker • Linux • Git • AWS • JMeter • LLVM
+**Tech:** Java • Raft • gRPC • Protobuf • JMeter
 
 ---
 
-## Selected Work
+### [Real-Time Collaborative Code Editor](https://github.com/rbafna1978/collaborative-editor) ⭐
+Multi-user code editor using **Conflict-free Replicated Data Types (CRDT)** for operational transformation.
 
-### Distributed Key-Value Store
-Fault-tolerant KV store implementing consensus, replication, and failover across multiple nodes.  
-Focus areas:
-- Leader election
-- Log replication
-- Network partition handling
-- Performance testing
+**Key features:**
+- 50+ simultaneous users per document with eventual consistency
+- WebSocket server with Redis pub/sub for horizontal scaling
+- 1000+ concurrent connections with automatic reconnection
 
----
-
-### Real-Time Collaborative Code Editor
-Multi-user collaborative editor supporting real-time synchronization.  
-Focus areas:
-- CRDT-based conflict resolution
-- WebSocket communication
-- Horizontal scaling with Redis
+**Tech:** React • WebSockets • CRDT • Redis • Docker
 
 ---
 
-### Compiler for a Subset of C
-End-to-end compiler with lexer, parser, semantic analysis, and LLVM IR generation.  
-Focus areas:
-- SSA optimizations
-- Code generation
-- Language design fundamentals
+### [C Compiler with LLVM Backend](https://github.com/rbafna1978/c-compiler)
+Complete compiler with lexer, parser, semantic analysis, and **LLVM IR code generation**.
+
+**Key features:**
+- Supports functions, structs, pointers, arrays, control flow
+- SSA-based optimizations: constant folding, dead code elimination, register allocation
+- 15% runtime improvement over unoptimized baseline
+
+**Tech:** C++ • LLVM • Flex/Bison • SSA
 
 ---
 
-### Production 3D Configurator
-Shipped a real-world configurator used by customers for product customization.  
-Focus areas:
-- Full-stack development
-- Payment integration
-- Performance optimization
+### [Multithreaded HTTP Server](https://github.com/rbafna1978/http-server)
+HTTP/1.1 web server from scratch in C++ using POSIX sockets.
+
+**Key features:**
+- Thread pool with work-stealing queue
+- 1000+ concurrent connections, 25K req/sec throughput (ApacheBench)
+- Lock-free request parsing
+
+**Tech:** C++ • POSIX • TCP Sockets • Multithreading
 
 ---
 
-## Currently Working On
+## 💼 Shipped to Production
 
-- Improving system design skills  
-- Building production-ready portfolio projects  
-- Deepening backend and distributed systems knowledge
+**3D Product Configurator @ J. Miller Custom Cues** (Aug - Dec 2025)  
+Built and shipped full-stack configurator **currently live** on company website processing real customer orders.
+
+- Three.js + React for real-time 3D rendering with WebGL
+- PostgreSQL REST API with Stripe payment integration
+- Reduced customer design revisions by 35%
+- Sub-200ms API response times in production
+
+[See it live →](https://jmillercustomcues.com)
 
 ---
 
-## Contact
+## 🛠️ Tech Stack
 
-Email: bafnarishit@gmail.com  
-LinkedIn: linkedin.com/in/rishit-bafna
+**Systems:** Java • C++ • C • Distributed Systems • Raft • CRDT  
+**Backend:** Node.js • FastAPI • gRPC • WebSockets • REST  
+**Databases:** PostgreSQL • Redis • MongoDB • MySQL  
+**Tools:** Docker • Linux • Git • AWS • JMeter • LLVM • ApacheBench
 
-<!--
-**rbafna1978/rbafna1978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email:** bafnarishit@gmail.com
+- **LinkedIn:** [linkedin.com/in/rishit-bafna](https://linkedin.com/in/rishit-bafna)
+- **Resume:** [View PDF](https://drive.google.com/file/d/1CGEiqjPd6OnAdfhIHydKLFlb8wsbA0Z8/view?usp=sharing)
+
+---
+
+## 📊 GitHub Stats
+
+![Rishit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbafna1978&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rbafna1978&layout=compact&theme=dark)
+
+---
+
+**Currently:** Building production-ready distributed systems • MS in CS @ ASU (Expected May 2027)
