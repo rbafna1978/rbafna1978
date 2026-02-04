@@ -84,7 +84,7 @@ Built and shipped full-stack configurator **currently live** on company website 
 
 - **Email:** bafnarishit@gmail.com
 - **LinkedIn:** [linkedin.com/in/rishit-bafna](https://linkedin.com/in/rishit-bafna)
-- **Resume:** [View PDF](https://portfolio-nunrq5qq6-rishit-bafnas-projects.vercel.app/resume.pdf)
+- **Resume:** [View PDF](https://portfolio-olive-seven-51.vercel.app/resume.pdf)
 
 ---
 
