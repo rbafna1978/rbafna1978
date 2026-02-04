@@ -90,9 +90,13 @@ Built and shipped full-stack configurator **currently live** on company website 
 
 ## 📊 GitHub Stats
 
-![Rishit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbafna1978&show_icons=true&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rbafna1978&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rbafna1978&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbafna1978&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
