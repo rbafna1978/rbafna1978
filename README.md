@@ -88,16 +88,4 @@ Built and shipped full-stack configurator **currently live** on company website 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rbafna1978&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbafna1978&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 **Currently:** Building production-ready distributed systems • MS in CS @ ASU (Expected May 2027)
