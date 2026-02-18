@@ -1,170 +1,107 @@
-<!-- Header Wave SVG -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Rishit%20Bafna%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Builder%20of%20Things&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-</p>
+<div align="center">
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Distributed+Systems+Enthusiast+%F0%9F%94%A5;React+%2B+Node+%2B+TypeScript+%E2%9C%A8;Building+things+that+matter+%F0%9F%92%AA;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a2e,100:16213e&height=220&section=header&text=Rishit%20Bafna&fontSize=70&fontColor=E2E8F0&fontAlignY=50&stroke=6366f1&strokeWidth=2&animation=fadeIn&desc=Full-Stack%20Engineer%20%E2%80%94%20Tempe%2C%20AZ&descSize=16&descAlignY=72&descFontColor=94a3b8" width="100%"/>
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/rishit-bafna"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:bafnarishit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/rbafna1978"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
-</p>
+</div>
 
 <br/>
 
-<!-- About Me Section -->
-## 🧑‍💻 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1500&color=6366F1&center=true&vCenter=true&multiline=false&width=480&height=30&lines=Distributed+systems+%2F+AI+products+%2F+Full-stack+web;Currently+building+%E2%86%92+Interview+Coach+AI+%26+KV+Store;Open+to+collaboration+%E2%80%94+let%27s+talk" alt="Typing SVG" />
+</div>
 
-```typescript
-const rishit = {
-  name:       "Rishit Bafna",
-  role:       "Full-Stack Developer",
-  location:   "🌵 Tempe, AZ",
-  focus:      ["Distributed Systems", "Web Apps", "AI-Powered Tools"],
-  currentlyBuilding: "Interview Coach AI 🤖",
-  funFact:    "I debug with console.log and I'm not ashamed",
-  openTo:     ["Collaborations", "Freelance", "Full-time roles"],
-};
-```
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=6366f1&labelColor=0f172a)](https://linkedin.com/in/rishitbafna)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=6366f1&labelColor=0f172a)](mailto:rbafna1978@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/rbafna1978-0f172a?style=flat-square&logo=github&logoColor=6366f1&labelColor=0f172a)](https://github.com/rbafna1978)&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=rbafna1978&style=flat-square&color=6366f1&label=visitors&labelColor=0f172a)
+
+</div>
 
 <br/>
 
 ---
 
-## 🛠️ Tech Stack
+### About
 
-<!-- Frontend -->
-**Frontend**
+Full-stack engineer focused on building systems that are fast, reliable, and worth shipping. I work across the stack — from distributed backends to polished UIs — with a strong preference for TypeScript, clean APIs, and tools that don't get in the way.
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-**Backend**
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-**Database & Cloud**
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br/>
+Currently based in Tempe, AZ. Finishing up an MS and working on two projects I actually care about.
 
 ---
 
-## 📊 GitHub Stats
+### Stack
 
-<!-- Stats Cards -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbafna1978&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbafna1978&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbafna1978&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" alt="streak stats"/>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbafna1978&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%"/>
-</p>
-
-<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,go,postgres,redis,docker,aws,git,figma&perline=12&theme=dark" />
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+### Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rbafna1978&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="95%"/>
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+**[🗄 Distributed KV Store](https://github.com/rbafna1978/distributed-kv-store)**
 
----
+Fault-tolerant key-value store built from scratch. Implements Raft consensus for leader election, consistent hashing for data distribution, and a gRPC interface for node communication.
 
-## 🚀 Featured Projects
+No magic — just Go, distributed systems theory, and a lot of log debugging.
 
-<p align="center">
-  <a href="https://github.com/rbafna1978/Interview_Helper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rbafna1978&repo=Interview_Helper&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/rbafna1978/distributed-kv-store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rbafna1978&repo=distributed-kv-store&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
+`Go` · `Raft` · `gRPC` · `Docker` · `Distributed Systems`
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
----
+**[🤖 Interview Coach AI](https://github.com/rbafna1978/interview-coach-ai)**
 
-## 📈 Skill Proficiency
+AI-powered mock interview platform with real-time voice feedback, adaptive question generation, and post-session performance reports.
 
-> *Self-assessed, vibes-calibrated* 😄
+Built for the people who hate "tell me about yourself" as much as I do.
 
-| Technology | Proficiency |
-|------------|-------------|
-| React / Next.js | `████████████████████` 95% |
-| TypeScript | `███████████████████░` 90% |
-| Node.js / Express | `██████████████████░░` 85% |
-| PostgreSQL | `████████████████░░░░` 80% |
-| Docker / DevOps | `██████████████░░░░░░` 70% |
-| Python | `████████████░░░░░░░░` 60% |
+`React` · `TypeScript` · `OpenAI` · `Node.js` · `PostgreSQL`
 
-<br/>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🐍 Contribution Snake
+### Activity
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rbafna1978&theme=dark&hide_border=true&background=0f172a&sideNums=6366f1&sideLabels=94a3b8&dates=64748b&ring=6366f1&fire=f59e0b&currStreakNum=e2e8f0&currStreakLabel=94a3b8&stroke=1e293b" width="55%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rbafna1978&bg_color=0f172a&color=6366f1&line=6366f1&point=e2e8f0&area=true&area_color=1e1b4b&hide_border=true&radius=6" width="94%"/>
+
+</div>
+
+---
+
+### Contribution Snake
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rbafna1978/rbafna1978/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rbafna1978/rbafna1978/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/rbafna1978/rbafna1978/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rbafna1978/rbafna1978/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rbafna1978/rbafna1978/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/rbafna1978/rbafna1978/output/github-snake-dark.svg" alt="contribution snake" width="94%"/>
   </picture>
-</p>
-
-<br/>
+</div>
 
 ---
 
-## 📬 Let's Connect
+<div align="center">
+<sub>Open to full-time roles, freelance, and interesting problems. &nbsp;·&nbsp; <a href="mailto:rbafna1978@gmail.com">Say hello →</a></sub>
+</div>
 
-<p align="center">
-  <i>I'm always open to interesting conversations and opportunities.</i><br/><br/>
-  <a href="mailto:rbafna1978@gmail.com">
-    <img src="https://img.shields.io/badge/Drop%20me%20an%20email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rbafna1978&label=Profile%20Views&color=a78bfa&style=flat" alt="profile views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:16213e,50:1a1a2e,100:000000&height=120&section=footer&stroke=6366f1&strokeWidth=1&reversal=true" width="100%"/>
