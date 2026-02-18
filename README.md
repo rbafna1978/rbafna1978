@@ -12,9 +12,8 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/rishitbafna"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/rbafna1978"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="mailto:rbafna1978@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rishit-bafna"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bafnarishit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/rbafna1978"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 </p>
 
@@ -110,11 +109,11 @@ const rishit = {
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/rbafna1978/distributed-key-value-store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rbafna1978&repo=distributed-key-value-store&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/rbafna1978/Interview_Helper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rbafna1978&repo=Interview_Helper&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/rbafna1978/interview-coach-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rbafna1978&repo=interview-coach-ai&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/rbafna1978/distributed-kv-store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rbafna1978&repo=distributed-kv-store&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
 
