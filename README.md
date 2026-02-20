@@ -6,7 +6,7 @@
 
 **Full-Stack Engineer &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; AI Products**
 
-Tempe, AZ &nbsp;·&nbsp; [rbafna1978@gmail.com](mailto:rbafna1978@gmail.com) &nbsp;·&nbsp; [linkedin.com/in/rishitbafna](https://linkedin.com/in/rishitbafna)
+Tempe, AZ &nbsp;·&nbsp; [bafnarishit@gmail.com](mailto:bafnarishit@gmail.com) &nbsp;·&nbsp; [linkedin.com/in/rishit-bafna](https://linkedin.com/in/rishit-bafna)
 
 </div>
 
