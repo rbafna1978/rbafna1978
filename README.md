@@ -14,7 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-rishitbafna.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://rishitbafna.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/linkedin-rishit--bafna-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishit-bafna)
 [![Email](https://img.shields.io/badge/email-bafnarishit%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bafnarishit@gmail.com)
-[![Terminal](https://img.shields.io/badge/▶_interactive_terminal-00ff9f?style=flat-square&logoColor=black)](https://rbafna1978.github.io/terminal.html)
+[![Terminal](https://img.shields.io/badge/▶_interactive_terminal-00ff9f?style=flat-square&logoColor=black)](https://rbafna1978.github.io/rbafna1978/terminal.html)
 
 </div>
 
