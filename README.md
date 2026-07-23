@@ -17,7 +17,7 @@ Point-in-time correct features (no label leakage), XGBoost + Isolation Forest, P
 
 ---
 
-**[F1 Race Strategy RL](https://github.com/rbafna1978/f1-strategy-rl)** — PPO agent for real F1 race strategy
+**[F1 Race Strategy RL](https://github.com/rbafna1978/f1_strategy)** — PPO agent for real F1 race strategy
 Full multi-agent environment with all 20 cars, 142-dimensional observation space, counterfactual reward shaping, and learned driver/constructor form embeddings. 188K laps of historical data (2018–2025). Sub-models for tire degradation, DNF risk, and safety car probability trained separately and frozen as a physics engine for the RL layer. Started after reading the Mercedes/Imperial RSRL paper and thinking I could do more with it.
 
 `Python · PyTorch · FastAPI · React · OpenF1`
@@ -48,7 +48,7 @@ Browser-native voice via Web Speech API. Scores STAR structure, filler word dens
 ## papers i've read and actually used
 
 - [Raft: In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) — built a 5-node cluster from it
-- [Explainable RL for F1 Race Strategy](https://arxiv.org/abs/2502.xxxxx) — Mercedes/Imperial, SAC'25 — sparked the F1 RL project, borrowed the tire allocation insight
+- [Explainable RL for F1 Race Strategy](https://arxiv.org/abs/2501.04068) — Mercedes/Imperial, SAC'25 — sparked the F1 RL project, borrowed the tire allocation insight
 - [Dynamo: Amazon's Highly Available Key-Value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 - [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 - [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
