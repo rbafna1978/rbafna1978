@@ -6,6 +6,10 @@ I care about backend systems and ML that actually works in production — not no
 
 When I'm not writing code I'm watching F1 or arguing about NBA advanced stats — turns out both are just distributed systems with worse uptime.
 
+<p align="center">
+  <img src="./timing-tower.svg" alt="Rishit Bafna — timing tower: F1 Strategy RL, RiskStream, CyberSentient RAG, Distributed KV Store, AI Interview Coach" width="760"/>
+</p>
+
 ---
 
 ## three things I'd bring up in an interview before you asked
