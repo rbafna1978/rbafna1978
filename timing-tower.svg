@@ -1,0 +1,87 @@
+<svg viewBox="0 0 840 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rishit Bafna timing tower">
+  <defs>
+    <style>
+      .sans { font-family: -apple-system, 'Segoe UI', Roboto, Arial, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', 'Courier New', monospace; }
+      @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.2; } }
+      .live { animation: pulse 1.6s ease-in-out infinite; }
+    </style>
+    <linearGradient id="topbar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E10600"/>
+      <stop offset="100%" stop-color="#7A0300"/>
+    </linearGradient>
+    <clipPath id="card"><rect x="0" y="0" width="840" height="400" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect x="0" y="0" width="840" height="400" fill="#15151E"/>
+    <path d="M600 30 C 690 5, 790 55, 815 115 S 765 205, 695 180 S 650 115, 605 140 S 565 210, 620 235"
+          fill="none" stroke="#22222E" stroke-width="4" opacity="0.6"/>
+    <rect x="0" y="0" width="840" height="6" fill="url(#topbar)"/>
+  </g>
+
+  <!-- header -->
+  <text x="32" y="52" class="sans" font-size="27" font-weight="700" fill="#FFFFFF">RISHIT BAFNA</text>
+  <text x="32" y="74" class="mono" font-size="12" letter-spacing="1.5" fill="#8B8FA3">MS CS &#183; ARIZONA STATE &#183; TEMPE, AZ</text>
+
+  <circle class="live" cx="682" cy="46" r="5" fill="#E10600"/>
+  <text x="695" y="50" class="mono" font-size="12" letter-spacing="0.5" fill="#E10600">SESSION: CAREER &#8212; LIVE</text>
+
+  <line x1="32" y1="92" x2="808" y2="92" stroke="#2A2A38" stroke-width="1"/>
+
+  <!-- column headers -->
+  <text x="32" y="112" class="mono" font-size="11" letter-spacing="1" fill="#5C5F72">POS</text>
+  <text x="80" y="112" class="mono" font-size="11" letter-spacing="1" fill="#5C5F72">PROJECT</text>
+  <text x="380" y="112" class="mono" font-size="11" letter-spacing="1" fill="#5C5F72">STACK</text>
+  <text x="592" y="112" class="mono" font-size="11" letter-spacing="1" fill="#5C5F72">TYRE</text>
+  <text x="650" y="112" class="mono" font-size="11" letter-spacing="1" fill="#5C5F72">READOUT</text>
+
+  <!-- row backgrounds (alternating) -->
+  <rect x="20" y="124" width="800" height="34" rx="4" fill="#1B1B27" opacity="0.55"/>
+  <rect x="20" y="208" width="800" height="34" rx="4" fill="#1B1B27" opacity="0.55"/>
+  <rect x="20" y="292" width="800" height="34" rx="4" fill="#1B1B27" opacity="0.55"/>
+
+  <!-- row 1 — F1 Strategy RL (SOFT / fastest-lap purple) -->
+  <text x="32" y="148" class="mono" font-size="15" font-weight="700" fill="#F5F5F5">P1</text>
+  <text x="80" y="148" class="sans" font-size="15" font-weight="700" fill="#FFFFFF">F1 STRATEGY RL</text>
+  <text x="380" y="147" class="mono" font-size="11" fill="#9BA0B5">PYTORCH &#183; FASTAPI &#183; REACT</text>
+  <circle cx="608" cy="143" r="9" fill="#FF2D2D"/>
+  <text x="608" y="147" class="mono" font-size="10" font-weight="700" fill="#FFFFFF" text-anchor="middle">S</text>
+  <text x="650" y="148" class="mono" font-size="14" font-weight="700" fill="#B026FF">142-DIM OBS</text>
+
+  <!-- row 2 — RiskStream (HARD) -->
+  <text x="32" y="190" class="mono" font-size="15" font-weight="700" fill="#F5F5F5">P2</text>
+  <text x="80" y="190" class="sans" font-size="15" font-weight="700" fill="#FFFFFF">RISKSTREAM</text>
+  <text x="380" y="189" class="mono" font-size="11" fill="#9BA0B5">XGBOOST &#183; REDIS &#183; MLFLOW</text>
+  <circle cx="608" cy="185" r="9" fill="#F5F5F5" stroke="#5C5F72" stroke-width="1"/>
+  <text x="608" y="189" class="mono" font-size="10" font-weight="700" fill="#15151E" text-anchor="middle">H</text>
+  <text x="650" y="190" class="mono" font-size="14" font-weight="700" fill="#C9CBDA">P99 &lt; 50MS</text>
+
+  <!-- row 3 — CyberSentient RAG (MEDIUM) -->
+  <text x="32" y="232" class="mono" font-size="15" font-weight="700" fill="#F5F5F5">P3</text>
+  <text x="80" y="232" class="sans" font-size="15" font-weight="700" fill="#FFFFFF">CYBERSENTIENT RAG</text>
+  <text x="380" y="231" class="mono" font-size="11" fill="#9BA0B5">QDRANT &#183; BM25 &#183; FASTAPI</text>
+  <circle cx="608" cy="227" r="9" fill="#FFD43B"/>
+  <text x="608" y="231" class="mono" font-size="10" font-weight="700" fill="#15151E" text-anchor="middle">M</text>
+  <text x="650" y="232" class="mono" font-size="14" font-weight="700" fill="#C9CBDA">400MS E2E</text>
+
+  <!-- row 4 — Distributed KV Store (HARD) -->
+  <text x="32" y="274" class="mono" font-size="15" font-weight="700" fill="#F5F5F5">P4</text>
+  <text x="80" y="274" class="sans" font-size="15" font-weight="700" fill="#FFFFFF">DISTRIBUTED KV STORE</text>
+  <text x="380" y="273" class="mono" font-size="11" fill="#9BA0B5">JAVA &#183; GRPC &#183; RAFT</text>
+  <circle cx="608" cy="269" r="9" fill="#F5F5F5" stroke="#5C5F72" stroke-width="1"/>
+  <text x="608" y="273" class="mono" font-size="10" font-weight="700" fill="#15151E" text-anchor="middle">H</text>
+  <text x="650" y="274" class="mono" font-size="14" font-weight="700" fill="#C9CBDA">5-NODE RAFT</text>
+
+  <!-- row 5 — AI Interview Coach (HARD) -->
+  <text x="32" y="316" class="mono" font-size="15" font-weight="700" fill="#F5F5F5">P5</text>
+  <text x="80" y="316" class="sans" font-size="15" font-weight="700" fill="#FFFFFF">AI INTERVIEW COACH</text>
+  <text x="380" y="315" class="mono" font-size="11" fill="#9BA0B5">REACT &#183; WEB SPEECH API</text>
+  <circle cx="608" cy="311" r="9" fill="#F5F5F5" stroke="#5C5F72" stroke-width="1"/>
+  <text x="608" y="315" class="mono" font-size="10" font-weight="700" fill="#15151E" text-anchor="middle">H</text>
+  <text x="650" y="316" class="mono" font-size="14" font-weight="700" fill="#C9CBDA">50+ USERS</text>
+
+  <line x1="32" y1="344" x2="808" y2="344" stroke="#2A2A38" stroke-width="1"/>
+  <text x="32" y="368" class="mono" font-size="12" letter-spacing="0.5" fill="#8B8FA3">NEXT ON GRID: NEW GRAD SWE &#183; BACKEND &#183; ML INFRA &#183; 2027</text>
+  <text x="808" y="368" class="mono" font-size="11" fill="#5C5F72" text-anchor="end">TEMPE, AZ</text>
+</svg>
